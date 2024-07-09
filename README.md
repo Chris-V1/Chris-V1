@@ -1,4 +1,5 @@
-![giphy](https://github.com/Chris-V1/Chris-V1/assets/85203475/e68b1a9e-0966-44cf-b57e-df100d39e165)
+
+![7A9m](https://github.com/Chris-V1/Chris-V1/assets/85203475/3bb58d1b-4f3c-4fc7-9d24-e4fb9325778d)
 
 
 <h1 align="center">Hi 👋, I'm Cristian Molano</h1>
