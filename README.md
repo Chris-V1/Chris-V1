@@ -1,5 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fenglish-electric-lightning&psig=AOvVaw1KJbfuU37Hn82D2sQZl_en&ust=1720569636686000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj008HTmIcDFQAAAAAdAAAAABAE))](https://rishavchanda.io)
-
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fenglish-electric-lightning&psig=AOvVaw1KJbfuU37Hn82D2sQZl_en&ust=1720569636686000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLj008HTmIcDFQAAAAAdAAAAABAE))](https://github.com/Chris-V1)
 
 <h1 align="center">Hi 👋, I'm Cristian Molano</h1>
 <h3 align="center">A recent graduate in Electrical Engineering, seeking an entry-level job.</h3>
