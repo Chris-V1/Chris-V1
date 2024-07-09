@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/SsBz0oSJ1botYaLqAR/giphy.gif?cid=6c09b952n6ydqav1rq1k2ga3zsn7jn09mpj3drrx0niqiph4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="300">
+<img src="https://media4.giphy.com/media/SsBz0oSJ1botYaLqAR/giphy.gif?cid=6c09b952n6ydqav1rq1k2ga3zsn7jn09mpj3drrx0niqiph4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="250">
 
 <h1 align="center">Hi 👋, I'm Cristian Molano</h1>
 <h3 align="center">A recent graduate in Electrical Engineering, seeking an entry-level job.</h3>
