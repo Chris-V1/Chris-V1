@@ -1,6 +1,4 @@
-
-![7A9m](https://github.com/Chris-V1/Chris-V1/assets/85203475/3bb58d1b-4f3c-4fc7-9d24-e4fb9325778d)
-
+<img src="https://media4.giphy.com/media/SsBz0oSJ1botYaLqAR/giphy.gif?cid=6c09b952n6ydqav1rq1k2ga3zsn7jn09mpj3drrx0niqiph4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="900" height="350">
 
 <h1 align="center">Hi 👋, I'm Cristian Molano</h1>
 <h3 align="center">A recent graduate in Electrical Engineering, seeking an entry-level job.</h3>
