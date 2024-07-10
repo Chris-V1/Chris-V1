@@ -20,7 +20,7 @@
 <strong>C, C++, LATEX, Assembly Language, MATLAB/Simulink, PSpice, QT Creator, LTspice, Arduino IDE, LC3 Tools, Tera
 Term, Kinetis Design Studio IDE, Microsoft Office, CPAT, AutoCAD, OrCAD </strong>
 
-<h3 align="left">Top Softwares:</h3>
+<h3 align="left">Top Skills:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" alt="linux" width="40" height="40"/> </a> 
